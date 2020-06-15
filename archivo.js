@@ -6,5 +6,7 @@ let variable_global = true;
 let auto = {
     marca : "Toyota",
     patente: "fr9-00r",
+    velocidad:200,
+    nombre: "vilma"
 }
 
