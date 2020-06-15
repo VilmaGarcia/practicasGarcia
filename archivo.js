@@ -7,6 +7,8 @@ let auto = {
     marca : "Toyota",
     patente: "fr9-00r",
     velocidad:200,
-    nombre: "vilma"
+    nombre: "vilma",
+    color: "fuxia",
+    tamaño: "xl",
 }
 
